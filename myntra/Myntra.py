@@ -46,7 +46,7 @@ df2.head()
 # In[ ]:
 
 
-df = df('Gender','Price
+df = df('Gender','Price')
 
 
 # In[39]:
